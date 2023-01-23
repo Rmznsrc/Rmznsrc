@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ramazan</h1>
 <h3 align="center">Computer & Software Engineer</h3>
-
+<img align="right" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="Coding" width="400" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmznsrc&label=Profile%20views&color=0e75b6&style=flat" alt="rmznsrc" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rmznsrc" alt="rmznsrc" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -12,6 +12,8 @@
 - 💬 Ask me about **PHP,CSS,HTML,JS**
 
 - 📫 How to reach me **surucuramazan7@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/ramazan-surucu/](https://www.linkedin.com/in/ramazan-surucu/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ramazan-surucu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramazan-surucu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/rmznsrc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rmznsrc" height="30" width="40" /></a>
-<a href="https://instagram.com/rmzn_src" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rmzn_src" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

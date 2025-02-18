@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **.NET CORE**
 
-- 💬 Ask me about **PHP,PHP Codeigniter,CSS,HTML,JS,.NET CORE, Python, C#, C, C++**
+- 💬 Ask me about **PHP,PHP Codeigniter,CSS,HTML,JS,.NET CORE, Python, C#, Kotlin-Android**
 
 - 📫 How to reach me **surucuramazan7@gmail.com**
 
